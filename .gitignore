@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+ttr_db/
+_to_delete/
